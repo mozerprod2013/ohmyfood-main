@@ -1,0 +1,303 @@
+
+.logo {
+    margin-left: -10%;
+    width: 60%;
+ }
+ .fa-heart.fa-xl {
+    position: absolute;
+    margin-left: 90%;
+    padding-top: 6%;
+    color: #090909;
+ }
+ .fa-solid.fa-heart.fa-xl {
+    position: absolute;
+    top: 67%;
+    color:#9356dc;
+ }
+ .cor {
+    position: absolute;
+    margin-left: 90%;
+    top: 20px;
+ }
+ .menu1 {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+ }
+ .fontmenu {
+    position: absolute;
+    top: 56%;
+    width: 70%;
+    border-radius: 25px 25px 0px 0px;
+    margin-left: 16%;
+    height: 1400px;
+    background-color: rgba(246,246,246,1);
+ }
+ .textmenu {
+    position: relative;
+    margin-left: 40%;
+    top: 1%;
+    font-size: x-large;
+    font-style: italic;
+ }
+ .test6 {
+    position: relative;
+    top: -10.5%;
+    margin-left: -250%;
+ }
+ .titremenu {
+    margin-left: -40%;
+    padding-top: 6%;
+ }
+ .titremenu1 {
+    position: absolute;
+    margin-left: 27%;
+    padding-top: 31%;
+ } 
+ .titremenu2 {
+    position: absolute;
+    margin-top: 56%;
+    margin-left: 26.2%;
+ }
+ .titremenu3 {
+    position: absolute;
+    margin-left: 27%;
+    padding-top: 37%;
+ }
+ .trait {
+    margin-left: 18.7%;
+    width: 5%;
+    margin-top: -1%;
+    height: 0.2%;
+    background-color: rgba(153,226,208,1);
+ }
+ .trait1 {
+    position: absolute;
+    margin-left: 41.5%;
+    width: 80%;
+    margin-top: -20%;
+    height: 0.5%;
+    background-color: rgba(153,226,208,1);
+ }
+ .menuh3 {
+    margin-left: -70%;
+ }
+ .menuh3M {
+    margin-left: -62%;
+ }
+ .menuh3MM{
+    margin-left: -83%;
+ }
+ .menuhM5 {
+    margin-left: -57%;
+ }
+ .menuhM6 {
+    margin-left: -78%;
+ }
+ .menuhM7{
+    margin-left: -53%;
+ }
+ .menup {
+    margin-left: -74%;
+    font-weight:200;
+    padding: -5%;
+ }
+ .menupM {
+    margin-left: -64%;
+    font-weight: 200;
+ }
+ .menupMM{
+    margin-left:-55% ;
+    font-weight: 200;
+ }
+ .menupMMM {
+    margin-left: -46%;
+    font-weight: 200;
+ }
+ .menupM4 {
+    margin-left: -58%;
+    font-weight: 200;
+ }
+ .menupM5 {
+    margin-left: -82%;
+    font-weight: 200;
+ }
+ .menupM6 {
+    margin-left: -88%;
+    font-weight: 200;
+ }
+ .menupM7 {
+    margin-left: -51%;
+    font-weight: 200;
+ }
+ .p-num {
+    margin-top: -5%;
+    margin-left: 90%;
+ }
+ .p-num1 {
+    position: absolute;
+    width: 50%;
+    margin-left: 42%;
+    top: 70%;
+    height: 5%;
+ 
+    background-color: rgba(153,226,208,1);
+ }
+ .bn-menu {
+    width: 60%;
+    height: 5.5%;
+    margin-left: 18%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ button:hover {
+    border-radius: 20px;
+ }
+ .bn-menu1 {
+    position: absolute;
+    width: 42%;
+    top: 100%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px ;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu2 {
+    position: absolute;
+    width: 42%;
+    top: 114%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px ;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu3 {
+    position: absolute;
+    width: 42%;
+    top: 136.5%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu4 {
+    position: absolute;
+    width: 42%;
+    top: 150%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu5 {
+    position: absolute;
+    width: 42%;
+    top: 164%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu6 {
+    position: absolute;
+    width: 42%;
+    top: 188%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu7 {
+    position: absolute;
+    width: 42%;
+    top: 202%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu8 {
+    position: absolute;
+    width: 42%;
+    top: 216%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu9 {
+    position: absolute;
+    width: 14%;
+    margin-top: 84%;
+    height: 8%;
+    border-radius: 50px;
+    border: white;
+    margin-left: 42%;
+    background: linear-gradient(#9356dc,#ff79da)
+ }
+ .bn-menu10 {
+    position: absolute;
+    width: 42%;
+    top: 128%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu11 {
+    position: absolute;
+    width: 42%;
+    top: 152%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu12 {
+    position: absolute;
+    width: 42%;
+    top: 166%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .bn-menu13 {
+    position: absolute;
+    width: 42%;
+    top: 180%;
+    height: 12%;
+    margin-left: 28.5%;
+    border-radius: 20px;
+    border: white;
+    background-color: white;
+ }
+ .foot-menu {
+    position: absolute;
+    width: 98%;
+    top: 1700px;
+    padding-top: 1%;
+    margin-left: -0.6%;
+    height: 100px;
+    background-color: #353535;
+ }
+ 
+ .fotter-bloc {
+    display: inline;
+    margin-bottom: 15px;
+    padding: 0 40px;
+    width: 100%;
+    max-width: 1200px;
+ }
