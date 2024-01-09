@@ -503,8 +503,8 @@ button {
     img.logo {
         position: absolute;
         width: 120px;
-        left: 610px;
-        margin-top: 1170px;
+        left: -85px;
+        top: -20px
     }
 
     .space {
@@ -552,11 +552,6 @@ button {
     .span4 {
         padding: 16%;
         margin-left: -18%;
-    }
-
-    img.logo {
-        left: -120px;
-        top: -20px;
     }
    
 
