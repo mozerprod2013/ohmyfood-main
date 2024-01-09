@@ -272,7 +272,7 @@ footer {
 
    .footer.footer {
       margin-left: 3.5%;
-      width: 504px;
+      min-width: 100px;
       top: -20px;
    }
 

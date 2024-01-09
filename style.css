@@ -522,7 +522,7 @@ button {
         margin-top: 10%;
         height: 190px;
         left: -2.5%;
-        max-width: 90%;
+        min-width: 90%;
     }
 
     .contenu-footer {
@@ -555,7 +555,7 @@ button {
     }
 
     img.logo {
-        left: -80px;
+        left: -120px;
         top: -20px;
     }
    
