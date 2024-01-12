@@ -199,7 +199,7 @@ footer {
       margin-top: -10%;
       width: 96%;
       border-radius: 40px 40px 0px 0px;
-      margin-left: 1%;
+      margin-left: 2%;
       height: 1300px;
       background-color: rgba(246, 246, 246, 1);
    }
@@ -212,7 +212,7 @@ footer {
 
    img.menu1 {
       width: 96%;
-      margin-left: 1%;
+      margin-left: 2%;
    }
 
    .titremenu {
@@ -242,7 +242,7 @@ footer {
    .liste-boutons li {
       width: 135%;
       margin-top: -19%;
-      margin-left: -21%;
+      margin-left: -22%;
       flex-direction: column;
    }
 
@@ -264,7 +264,7 @@ footer {
       margin-left: 30%;
    }
    .p3{
-      margin-left: 40px;
+      margin-left: 25px;
    }
    .span4 {
       margin-left: -15%;
