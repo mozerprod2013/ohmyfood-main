@@ -269,11 +269,11 @@ footer {
    .span4 {
       margin-left: -15%;
    }
-
    .footer.footer {
-      margin-left: 3.5%;
-      min-width: 100px;
-      top: -20px;
+      left: 1%;
+      width: 85.7%;
+
    }
+  
 
 }
