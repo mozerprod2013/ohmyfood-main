@@ -413,7 +413,7 @@ button {
     }
 
     .icon {
-        width: 598.5px;
+        width: 632px;
         margin-left: -0.9%;
         font-family: Arial, Helvetica, sans-serif;
         background-color: #eaeaea;
@@ -434,7 +434,7 @@ button {
 
     .font {
         padding-top: 5%;
-        width: 597px;
+        width: 632px;
         margin-left: -0.9%;
         height: 310px;
         background-color: #F6F6F6;
@@ -475,10 +475,11 @@ button {
         margin-left: 1%;
         margin-top: 15%;
         padding-top: 10%;
+        
     }
 
     li {
-        margin-left: -10%;
+        margin-left: -6%;
         padding-top: 20%;
         min-width: 100%;
         margin-top: -5%;
