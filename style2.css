@@ -190,7 +190,7 @@ footer {
    }
    .heart {
       position: absolute;
-      left: -35%;
+      left: -15%;
       margin-top: 2%;
    }
 
@@ -235,13 +235,14 @@ footer {
       margin-left: 140px;
    }
    .fa-circle-check{
-      margin-left: 43%;
-      margin-top: 8%;
+      margin-left: 40%;
+      margin-top: 12%;
+
    }
    .liste-boutons li {
       width: 135%;
       margin-top: -19%;
-      margin-left: -23%;
+      margin-left: -32%;
       flex-direction: column;
    }
 
@@ -250,27 +251,29 @@ footer {
       width: 59%;
       margin-left: 41%;
    }
-
+   .num {
+      margin-left: 65%;
+   }
    img.logo {
-      margin-left: -390px;
+      margin-left: -375px;
       margin-top: -30%;
    }
 
    .bn-menu9 {
-      display: flex;
-      width: 30%;
-      margin-top: -19%;
-      margin-left: 34%;
+      width: 40%;
+      margin-top: -25%;
+      left: -15%;
    }
    .p3{
-      margin-left: 25px;
+      margin-left: 20px;
    }
    .span4 {
       margin-left: -15%;
    }
    .footer.footer {
-      left: 1%;
-      width: 85.7%;
+      left: 3%;
+      top: 150%;
+      width: 82%;
 
    }
   
