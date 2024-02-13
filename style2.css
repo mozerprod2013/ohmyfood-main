@@ -242,7 +242,7 @@ footer {
    .liste-boutons li {
       width: 135%;
       margin-top: -19%;
-      margin-left: -32%;
+      margin-left: -25%;
       flex-direction: column;
    }
 
@@ -255,12 +255,12 @@ footer {
       margin-left: 65%;
    }
    img.logo {
-      margin-left: -375px;
-      margin-top: -30%;
+      margin-left: -360px;
+      margin-top: -25%;
    }
 
    .bn-menu9 {
-      width: 40%;
+      width: 30%;
       margin-top: -25%;
       left: -15%;
    }
@@ -271,9 +271,9 @@ footer {
       margin-left: -15%;
    }
    .footer.footer {
-      left: 3%;
+      left: 2%;
       top: 150%;
-      width: 82%;
+      width: 85%;
 
    }
   
