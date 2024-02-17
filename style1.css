@@ -135,14 +135,14 @@ h1 {
 
 .pp3 {
     margin-left: auto;
-    padding-top: 1%;
     width: 100%;
     color: white;
 }
 
 .bn-res {
     display: inline-block;
-    width: 280px;
+    width: 220px;
+    height: 21%;
     margin-top: 1%;
     padding: 0.3%;
     border-radius: 30px;
@@ -444,15 +444,15 @@ button {
 
     .bn-res {
         display: flex;
-        height: 53px;
+        height: 50px;
         margin-top: 5%;
-        width: 45%;
-        margin-left: 27%;
+        width: 40%;
+        margin-left: 30%;
     }
 
     .pp3 {
         width: 100%;
-        margin-left: 20%;
+        margin-left: 15%;
         color: white;
     }
     h1 {
@@ -502,7 +502,7 @@ button {
     img.logo {
         position: absolute;
         width: 120px;
-        left: -70px;
+        left: -95px;
         top: -30px
     }
 
