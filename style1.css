@@ -417,8 +417,8 @@ button {
     }
 
     .icon {
-        width: 580px;
-        margin-left: -5px;
+        width: 585px;
+        margin-left: -6px;
         font-family: Arial, Helvetica, sans-serif;
         background-color: #eaeaea;
     }
@@ -442,7 +442,7 @@ button {
 
     .font {
         padding-top: 5%;
-        width: 580px;
+        width: 585px;
         margin-left: -1%;
         height: 310px;
         background-color: #F6F6F6;
@@ -474,12 +474,14 @@ button {
         margin-left: 20%;
         font-size: 120%;
         text-align: center;
+
     }
 
     h2 {
-        margin-left: 1%;
+        margin-left: -1%;
         margin-top: 15%;
         padding-top: 10%;
+    
     }
 
     li {
@@ -491,7 +493,7 @@ button {
 
     .menu-titre {
         position: relative;
-        left: -28%;
+        left: -33%;
         padding-bottom: 5%;
     }
 
